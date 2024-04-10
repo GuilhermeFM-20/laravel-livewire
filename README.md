@@ -16,7 +16,7 @@ Cada controlador vai ter sua respectiva view dentro do caminho: `\resources\view
 
 ## Como inciar
 
-É necessário está na versão 8.2 do PHP.
+É necessário estar na versão 8.2 do PHP.
 
 Rodar o comando abaixo para iniciar o servidor:
 ```sh
