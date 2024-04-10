@@ -7,7 +7,9 @@ O projeto tem como objetivo principal o aprendizado da biblioteca Livewire em um
 O projeto está construindo separado em três componentes do livewire.
 
 -`App\Livewire\Grid`: Vai fazer o controle da tela inicial, com o grid dos usuários e o filtro de busca.
+
 -`App\Livewire\Create`: Vai fazer o controle da tela de cadastro dos usuários.
+
 -`App\Livewire\Update`:  Vai fazer o controle da tela de atualização dos usuários.
 
 Cada controlador vai ter sua respectiva view dentro do caminho: `\resources\views\livewire`
